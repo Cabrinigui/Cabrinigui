@@ -1,6 +1,6 @@
 # Guilherme Cabrini 
 
-**`Engenheiro de dados **
+Engenheiro de dados
 
 
 Tenho 22 anos, sou Engenheiro de Dados e atualmente curso Pós em Engenharia de Machine Learning. Minha paixão por dados e ciência de dados me impulsiona a explorar novas tecnologias, resolver problemas complexos e transformar informações em conhecimento.
